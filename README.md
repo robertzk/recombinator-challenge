@@ -5,7 +5,7 @@ Please write a small [CLI tool](https://en.wikipedia.org/wiki/Command-line_inter
 
 ## Input
 Your program should expect valid JSON representing a two dimensional matrix. 
-**Do not implement JSON parsing by hand**; please a pre-existing JSON library for this purpose.
+**Do not implement JSON parsing by hand**; please use a pre-existing JSON library for this purpose.
 (It's not as easy as it seems! And it's not the criterion we are testing.)
 It will be in one of the following two formats:
 
