@@ -4,7 +4,10 @@
 Please write a small [CLI tool](https://en.wikipedia.org/wiki/Command-line_interface) that works as described below. You may use a language of your choice.
 
 ## Input
-Your program should expect valid JSON representing a two dimensional matrix. It will be in one of the following two formats:
+Your program should expect valid JSON representing a two dimensional matrix. 
+**Do not implement JSON parsing by hand**; please a pre-existing JSON library for this purpose.
+(It's not as easy as it seems! And it's not the criterion we are testing.)
+It will be in one of the following two formats:
 
 **A**) **a list of lists**
     
